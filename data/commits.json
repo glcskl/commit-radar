@@ -1,7 +1,19 @@
 {
   "source": "ykr0p/ykr0p-new_arch_workdo_w",
-  "count": 638,
+  "count": 640,
   "commits": [
+    {
+      "sha": "3b5051daf6",
+      "date": "2026-09-11T08:17:16Z",
+      "message": "fix(landing): always highlight home on the landing page",
+      "author": "Ykr0p"
+    },
+    {
+      "sha": "893e4c29bd",
+      "date": "2026-09-11T08:17:16Z",
+      "message": "fix(landing): notify subscribers on same-tab storage writes",
+      "author": "Ykr0p"
+    },
     {
       "sha": "6ec02069e8",
       "date": "2026-09-10T21:21:47Z",
